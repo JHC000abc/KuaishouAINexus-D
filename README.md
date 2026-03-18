@@ -2,6 +2,8 @@
 极枢·快手全链路 AI 引擎 (Nexus-D) 🚀
 # 快手视频信息拦截与解析 (AI神评论增强版) 🚀
 
+# 商业使用或者二开请自觉遵守协议，欢迎各位参与项目维护，主页还有其它主流短视频平台的自动化交互方案，欢迎交流学习
+
 ![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Tampermonkey-red.svg)
