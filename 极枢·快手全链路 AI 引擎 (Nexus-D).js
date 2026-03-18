@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.0.0
 // @description  全功能终极版：抓取任务防中断挂起机制、评论后置触发赞藏、全维度气泡通知、悬浮球位置记忆、FIFO防重队列、全局异常阻断、全息日志
-// @author       Assistant & Gemini
+// @author       Assistant & Gemini && JHC000abc@gmail.com
 // @license      CC-BY-NC-SA-4.0
 // @match        https://www.kuaishou.com/*
 // @connect      *
