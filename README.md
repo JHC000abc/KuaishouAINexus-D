@@ -1,7 +1,7 @@
 # KuaishouAINexus-D
 极枢·快手全链路 AI 引擎 (Nexus-D) 🚀
 # 快手视频信息拦截与解析 (AI神评论增强版) 🚀
-
+## __NS_sig3 算法 逆向可以参考：https://blog.csdn.net/CXY00000/article/details/158772278?spm=1001.2014.3001.5501
 # 商业使用或者二开请自觉遵守协议，欢迎各位参与项目维护，主页还有其它主流短视频平台的自动化交互方案，欢迎交流学习
 
 ![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)
